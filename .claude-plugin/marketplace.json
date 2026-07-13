@@ -1,0 +1,16 @@
+{
+  "name": "agnic-tools",
+  "owner": {
+    "name": "Agnic"
+  },
+  "metadata": {
+    "description": "Agnic's internal Claude Code / Cowork plugin marketplace."
+  },
+  "plugins": [
+    {
+      "name": "agnic-marketing",
+      "source": "./",
+      "description": "Agnic's AI marketing org: CMO orchestrator + growth, copywriter, product-marketing, community, ai-visibility, builder-relations, and events specialists."
+    }
+  ]
+}
